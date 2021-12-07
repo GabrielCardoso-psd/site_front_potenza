@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "C:\\\\laragon\\\\www\\\\site_front_potenza\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1350cfff"
+    "chunkName": "pages/index"
   }
 ]
